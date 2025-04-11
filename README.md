@@ -22,10 +22,6 @@ RegisterNumber:  212223220062
 ```
 ```
 /*
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: HARITHA RAMESH
-RegisterNumber:  212223100011
-
 import pandas as pd
 pf=pd.read_csv("Placement_Data.csv")
 pf.head()
