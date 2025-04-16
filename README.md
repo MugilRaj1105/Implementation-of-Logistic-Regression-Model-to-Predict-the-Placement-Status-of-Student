@@ -8,10 +8,15 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1. Import necessary libraries (pandas, LabelEncoder, train_test_split, etc.).
+
 2.Load the dataset using pd.read_csv().
+
 3.Create a copy of the dataset and drop unnecessary columns (sl_no, salary).
+
 4.Check for missing and duplicate values using isnull().sum() and duplicated().sum().
+
 5.Encode categorical variables using LabelEncoder() to convert them into numerical values.
+
 ## Program:
 ```
 /*
